@@ -1,3 +1,3 @@
 # Hello Github!!!
-<img alt="Image of boqi" src=https://octodex.github.com/images/yaktocat.png width=400>
+<img alt="Image of yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
 
